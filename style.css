@@ -1,0 +1,11 @@
+.main-body {
+    margin: auto;
+    width: 30%;
+    margin-top: 20vw;
+}
+
+button {
+    background-color: blue;
+    padding: 0.5vw 0.7vw;
+    color: white;
+}
